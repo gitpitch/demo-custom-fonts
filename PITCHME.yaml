@@ -67,6 +67,6 @@ published : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "GitPitch Custom Fonts"
-description : "Make GitPitch slide decks more striking, memorable, and aligned with your own brand using custom fonts."
+description : "Make GitPitch slide decks more striking, memorable, and directly aligned with your own brand using custom fonts."
 thumbnail : assets/img/gitpitch-custom-fonts-thumb.jpg
 
