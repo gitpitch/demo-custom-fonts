@@ -1,10 +1,10 @@
 # GitPitch Custom Fonts Demo
 
 custom-fonts : [
-  "fonts/Permanent-Marker.woff2",
-  "fonts/Londrina-Outline.woff2",
-  "fonts/Aladin.woff2",
-  "fonts/Handlee.woff2"
+  "assets/fonts/Permanent-Marker.woff2",
+  "assets/fonts/Londrina-Outline.woff2",
+  "assets/fonts/Aladin.woff2",
+  "assets/fonts/Handlee.woff2"
 ]
 
 #
