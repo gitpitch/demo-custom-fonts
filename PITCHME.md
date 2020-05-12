@@ -95,6 +95,6 @@ REFERENCES "forum" ("id");
 @snapend
 
 @snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+[GitPitch Custom Fonts Guide @fa[external-link]](https://gitpitch.com/docs/themes/custom-fonts/)
 @snapend
 
