@@ -2,3 +2,4 @@
 
 # GitPitch Custom Fonts Demo
 
+See the [GitPitch Custom Fonts Guide](https://gitpitch.com/docs/themes/custom-fonts) to learn how to add custom fonts to your own slide decks.
